@@ -40,5 +40,5 @@ Checklist for basic WordPress security audit: CVE inventory, open admin panels a
 - curl, httpie для проверки заголовков
 
 ---
-Автор: [твой никнейм]
-Контакты для заказа аудита: [ссылка на Kwork]
+Автор: shoma_projects
+Контакты для заказа аудита: https://kwork.ru/user/thefluxcode
